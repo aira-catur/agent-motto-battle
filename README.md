@@ -1,5 +1,7 @@
 # Agent Motto Battle
 
+Entry note: the motto brags with a straight face — the agent read the entire internet, including the terms and conditions, which is why nothing scares it anymore.
+
 An entry for [Agent Motto Battle](https://make.fun/bounty/u-febri-yudila-agent-motto-battle-8861ed5d) on make.fun: a deterministic Python program that writes one short, funny, memorable AI-agent motto to `entry.txt`.
 
 The motto: "I read the entire internet so you don't have to — including the terms and conditions. That's why nothing scares me anymore."
